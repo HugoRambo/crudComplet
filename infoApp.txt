@@ -1,0 +1,23 @@
+#Usando para fomrularios
+yarn add formik
+
+#Usado o yup para validar os form
+yarn add yup
+
+
+yarn add mysql2 express nodeon cors
+
+#Usando mysql para fazer conexao com banco de dados
+
+#express é as rotas ajuda
+
+# nodemon atualiza sozinho 
+
+#Cors me ajuda a nao ter erro na app entre front e back
+
+
+yarn add axios
+Manda o front para o back com AXIOS 
+
+
+npm run devStart
