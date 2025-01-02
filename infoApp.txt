@@ -11,7 +11,7 @@ yarn add mysql2 express nodeon cors
 
 #express é as rotas ajuda
 
-# nodemon atualiza sozinho  N1HSlVRCeI
+# nodemon atualiza sozinho 
 
 #Cors me ajuda a nao ter erro na app entre front e back
 
