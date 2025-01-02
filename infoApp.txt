@@ -19,5 +19,5 @@ yarn add mysql2 express nodeon cors
 yarn add axios
 Manda o front para o back com AXIOS 
 
-
+ 4bQuXJ8k5Y
 npm run devStart
