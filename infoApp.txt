@@ -15,7 +15,7 @@ yarn add mysql2 express nodeon cors
 
 #Cors me ajuda a nao ter erro na app entre front e back
 
-
+ aIH6P6TOS7
 yarn add axios
 Manda o front para o back com AXIOS 
 
